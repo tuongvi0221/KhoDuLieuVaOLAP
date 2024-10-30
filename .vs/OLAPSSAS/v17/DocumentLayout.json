@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OLAP\\SSAS\\SSAS\\OLAPSSAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C15ED69-D5AB-4D6F-8777-4AD37A555BB7}|OLAPSSAS\\OLAPSSAS.dwproj|D:\\OLAP\\SSAS\\SSAS\\OLAPSSAS\\OLAPSSAS\\ACCIDENT SSIS.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{4C15ED69-D5AB-4D6F-8777-4AD37A555BB7}|OLAPSSAS\\OLAPSSAS.dwproj|solutionrelative:OLAPSSAS\\ACCIDENT SSIS.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 170,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ACCIDENT SSIS.cube [Design]",
+              "DocumentMoniker": "D:\\OLAP\\SSAS\\SSAS\\OLAPSSAS\\OLAPSSAS\\ACCIDENT SSIS.cube",
+              "RelativeDocumentMoniker": "OLAPSSAS\\ACCIDENT SSIS.cube",
+              "ToolTip": "D:\\OLAP\\SSAS\\SSAS\\OLAPSSAS\\OLAPSSAS\\ACCIDENT SSIS.cube [Design]",
+              "RelativeToolTip": "OLAPSSAS\\ACCIDENT SSIS.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-29T10:18:57.322Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7cc9e714-2774-4fc6-8631-a07eee703286}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
